@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+database.db
+*.db
+.DS_Store
+static/uploads/rooms/*
+static/uploads/foods/*
+static/uploads/gallery/*
+!static/uploads/rooms/.gitkeep
+!static/uploads/foods/.gitkeep
+!static/uploads/gallery/.gitkeep
